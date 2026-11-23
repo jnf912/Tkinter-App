@@ -1,0 +1,12 @@
+user;group;password;budget;b_purchased;c_purchased
+root;admin;$2b$12$U2OU96iOfR3n9VKs6ZYJUe57mo5cqv9kyN3WCOHb30NFfcf20e5J6;0;0;0
+test;users;$2b$12$Ymc8KNgHON462hqQNk2w3unJq8cWqC3jIBuQNtoLW8z6UrfqU/hri;0;0;0
+user1;users;$2b$12$O94PXIsRY4w/Dh4b4j4p5.AByHJL9B3zxW6mwnzHpHswEQu9lVSvm;50;0;4
+user2;users;$2b$12$ki13dh3TFEPCjyg4Gf./DeSc7X6Q0VT/DvA2/RZQtGuSzFkvZKC7q;900;0;0
+user3;users;$2b$12$zhfR4MzuIVokbTbZ.0b5fOpWwR33hIvQbdbGMHWATqdfNWM.Y8vnK;800;0;0
+user4;users;$2b$12$W2ICXodx04/LxGl6LYDzS.nLOCWcNKWbEj2t9SWgsRn.wmHxwshGe;700;0;0
+user5;users;$2b$12$Vfc.nSjSfL3oVemWI87yYeb3ojUD2JSIZd63NaQ2438fvNBt6icYK;573.0;2;2
+user6;users;$2b$12$VhjPDWzgIYNrUKGwLqCdQOuVVAMWc5bihT8a2ZfD4ahXz9fR1zbri;500;0;0
+user7;users;$2b$12$5L7NhSb7cF/m0Wvx9kN..emYsb.GZbztm5m6/1iJ6jikfnX4NrSjW;400;0;0
+user25;users;$2b$12$bRQcC6Or28TJnLg8LSGvIuhuv/JmIDsjsTVjJh6S32.F0NUoXHO4C;250;0;0
+user30;users;$2b$12$mHDo.u/cWZdLJ2Nl9zRlc.44p6zLKj9ECMMmXwz8xwVjAUsZz/PHW;375.5;0;0
